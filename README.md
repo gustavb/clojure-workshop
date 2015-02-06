@@ -17,6 +17,7 @@ Get it [here](http://git-scm.com/).
 This is the defacto Clojure build tool. It will setup almost everything for you.
 
 Get it [here](http://leiningen.org/).
+Note: for macos user with homebrew just run brew install leiningen
 
 ## Light Table
 
